@@ -1,5 +1,5 @@
 # sHML Parser and Normaliser
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License:gpl3](https://img.shields.io/badge/License-GPL%20v.3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![Documentation: Doxygen](https://img.shields.io/badge/documentation-pdf-red.svg)](https://drmenguin.com/files/cs-apt.pdf)
 
 This project is part of my [undergraduate dissertiation in computer science](https://drmenguin.com/publication/cs-undergrad-project). 
