@@ -26,6 +26,7 @@ which ensures that a request (_i_ ? req), followed an answer (_i_ ! ans), is the
 ### sHML and Normal Form
  Not all formulae in *μHML* are enforceable, i.e., they do not all correspond to ''valid'' monitors. The **safety fragment**, so-called sHML, is a subset which _is_ enforceable.  
 <p align="center"> <img src="shml.png" alt="sHML BNF" width="80%"> </p>
+
 Now, in [Aceto et. al](https://arxiv.org/abs/1804.08917), a synthesis function for monitors corresponding to sHML formulae in **normal form** is given.  Normal form is yet another restriction of *μHML*, i.e., *sHML*<sub>nf</sub>⊆*sHML*⊆*μHML*, however this restriction is only superficial,  in that every *sHML* formula can be reformulated into an equivalent one in normal form: ⟦*sHML*<sub>nf</sub>⟧=⟦*sHML*⟧⊆⟦*μHML*⟧.
 
 An *sHML* formula _φ_ is in normal form if the following hold.
