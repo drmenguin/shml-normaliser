@@ -2,6 +2,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Documentation: Doxygen](https://img.shields.io/badge/documentation-pdf-red.svg)](https://drmenguin.com/files/cs-apt.pdf)
 
+This project is part of my [undergraduate dissertiation in computer science](https://drmenguin.com/publication/cs-undergrad-project). 
+
 ## What is sHML?
 
 [Runtime enforcement](https://en.wikipedia.org/wiki/Runtime_verification) is the process of analysing the behaviour of software systems at runtime, and _enforcing_ ''correct'' behaviour using software entities called **monitors**.  A monitor wraps itself around the system and analyses all its external interactions. This allows it to transform any incorrect actions by replacing them, suppressing them, or inserting other actions.    
