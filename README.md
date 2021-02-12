@@ -48,9 +48,11 @@ Below are some examples of the parser's syntax.
 To use the software, download a Haskell parser such as [ghc](https://www.haskell.org/ghc/), and clone this repository. In a terminal, navigate to the repository directory and run
 
     ghci
+    
 to launch the interactive Haskell REPL. Then do
 
     :load SHMLNormaliser.hs
+    
 and you should see something like the following.
 
     Prelude> :load SHMLNormaliser.hs
