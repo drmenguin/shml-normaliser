@@ -76,6 +76,7 @@ will produce the output
 The `parseTree` command shows how a formula is parsed. Running
 
     parseTree phi
+    
 where `phi` is the formula defined above, produces the output
 
     Necessity
@@ -102,5 +103,6 @@ Given a formula, `nf` will return an equivalent formula in normal form. Doing
 where `phi` is the formula defined above, produces the output
 
     [i ? 3]([i ! 4]Y)
+    
 which is equivalent to `phi` but is in normal form.
 
